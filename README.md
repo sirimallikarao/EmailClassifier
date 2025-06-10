@@ -24,6 +24,8 @@ This is an automated email response workflow built using [n8n](https://n8n.io), 
 | `n8n-nodes-base.if`, `set`, `merge` | Logic for handling dynamic data |
 | `n8n-nodes-base.gmail` | Send replies and apply labels |
 
+![Screenshot 2025-06-09 233152](https://github.com/user-attachments/assets/9c901a4a-c4c5-4a0a-a0f5-5540a7aec812)
+
 ## 📤 Responses Sent
 
 Depending on the classification, one of the following responses is sent:
